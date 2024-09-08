@@ -2,7 +2,7 @@
 
 This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
 
-## Running the server update me here
+## Running the server this is line is updated
 
 To run the server, execute the following command:
 
